@@ -1,2 +1,2 @@
 # Jokempo
- A simple jokempo game made in Android Studio
+ Simple app made during my Android Studio learning
